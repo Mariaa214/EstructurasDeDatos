@@ -10,3 +10,4 @@ geográficamente diversa o con múltiples fuentes de datos.
 ![image](https://github.com/user-attachments/assets/2112ae97-20f8-4b5a-a1cf-8223d21df530)
 
 
+
