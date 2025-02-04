@@ -5,5 +5,7 @@ incluye: Las fuentes, el almacenamiento, los procesos, el análisis y las aplica
 
 -Las estructuras de datos son especialmente ventajosas para las organizaciones con una presencia 
 geográficamente diversa o con múltiples fuentes de datos.
+
+
 ![image](https://github.com/user-attachments/assets/2112ae97-20f8-4b5a-a1cf-8223d21df530)
 
